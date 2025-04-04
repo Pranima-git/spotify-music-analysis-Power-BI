@@ -15,7 +15,15 @@ Analyze Spotify's music data to identify:
 - 🌟 Insights into **artist popularity and top tracks**  
 - 📆 Streaming patterns by **release year and month**  
 - 🎶 Comparative analysis of **tracks and streaming metrics**  
-- 🧠 Deep dive into **musical features** like energy, danceability, speechiness, and more  
+- 🧠 Deep dive into **musical features** like energy, danceability, speechiness, and more
+  
+ 📁 Files Included
+
+| File | Description |
+|------|-------------|
+| `spotify_dashboard_created.pbix` | Power BI report file |
+| `spotify_dashboard_pdf_file.pdf` | PDF version of the dashboard |
+| `README.md` | Project description and documentation |
 
  📈 Project Impact
 
